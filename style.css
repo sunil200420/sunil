@@ -1,0 +1,26 @@
+*{
+    margin: 3px;
+    padding: 3px;
+    box-sizing: content-box;
+}
+
+body {
+    background-image:url(background.webp) ;
+    text-align: center;
+    color: aqua;
+}
+nav{
+    font-style: oblique;
+    background-color: rgb(255, 81, 0);
+    justify-content: center;
+}
+h1{
+    color: rgb(36, 210, 30);
+}
+h2{
+    color: darkgoldenrod;
+}
+h5{
+    font-size: large;
+    border-image-width: url("roof.jpg");
+}
